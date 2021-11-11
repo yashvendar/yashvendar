@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashvendar
 - 👀 I’m interested in SDE
-- 🌱 I’m currently learning Graph and SQL Database
+- 🌱 I’m currently learning Graph Database(Neo4j)
 - 📫 How to reach me -> Yashvendarbadsiwal@gmail.com/ yashvendars@gmail.com
 
 <!---
